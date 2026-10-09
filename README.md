@@ -1,4 +1,19 @@
-#  Weather Forecasting Website
+<div align="center">
+  # 🌤️ Weather Forecasting Website
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/OpenWeatherMap-API-blue?style=for-the-badge" alt="OpenWeatherMap" />
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/TechBastards/Weather-Forecasting-Website">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechBastards&repo=Weather-Forecasting-Website&theme=tokyonight&hide_border=true" alt="Weather App Repo Stats" />
+    </a>
+  </p>
+</div>
 
 A **dynamic weather forecasting web application** built using **HTML, CSS, and JavaScript** that provides real-time weather data for any location in the world.
 
