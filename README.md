@@ -158,7 +158,7 @@ weather-forecasting-website
 ---
 
 # Project Demo
-https://github.com/vsbeginner/Weather-Forecasting-Website/raw/main/Demo%20(2).mp4
+https://github.com/TechBastards/Weather-Forecasting-Website/raw/main/Demo%20(2).mp4
 
 #  Usage
 
@@ -232,11 +232,8 @@ Potential enhancements for the project:
 
 **Vinayak Sharma**
 
-GitHub:
-https://github.com/vsbeginner
-
-LinkedIn:
-https://www.linkedin.com/in/vinayak-sharma-24a8aa384/
+* [GitHub](https://github.com/TechBastards)
+* [LinkedIn](https://www.linkedin.com/in/vinayak-sharma-24a8aa384/)
 
 ---
 
