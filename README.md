@@ -158,7 +158,7 @@ weather-forecasting-website
 ---
 
 # Project Demo
-https://github.com/TechBastards/Weather-Forecasting-Website/raw/main/Demo%20(2).mp4
+<video src="https://github.com/TechBastards/Weather-Forecasting-Website/raw/main/Demo%20(2).mp4" width="100%" controls autoplay loop muted></video>
 
 #  Usage
 
