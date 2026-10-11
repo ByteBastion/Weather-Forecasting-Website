@@ -4,6 +4,8 @@
   **Vinayak Sharma**  
   *ByteBastion Engineering Laboratory*
 
+  Dvision: Bug.exe
+
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -119,9 +121,6 @@ Simply open `index.html` in your browser:
 
 **Vinayak Sharma**  
 *Lead Developer & Hardware/Software Enthusiast*  
-* GitHub: [@TechBastards](https://github.com/TechBastards)  
-* Portfolio: [vinayaksharmadev.vercel.app](https://vinayaksharmadev.vercel.app)  
-* LinkedIn: [vinayak-sharma](https://www.linkedin.com/in/vinayak-sharma-24a8aa384/)
 
 ---
 
