@@ -4,7 +4,9 @@ const locationButton = document.querySelector(".location-btn");
 const currentWeatherDiv = document.querySelector(".current-weather");
 const weatherCardsDiv = document.querySelector(".weather-cards");
 
-const API_KEY = "030115f4bc8f9d57b15d613a1e66fd03"; // API key for OpenWeatherMap API
+// OpenWeatherMap API key configuration
+// In local development or production, define window.OPENWEATHER_API_KEY or set your key below
+const API_KEY = window.OPENWEATHER_API_KEY || "YOUR_OPENWEATHER_API_KEY_HERE";
 
 const createWeatherCard = (cityName, weatherItem, index) => {
     if(index === 0) { // HTML for the main weather card
@@ -64,6 +66,9 @@ const getWeatherDetails = (cityName, latitude, longitude) => {
 const getCityCoordinates = () => {
     const cityName = cityInput.value.trim();
     if (cityName === "") return;
+    if (API_KEY === "YOUR_OPENWEATHER_API_KEY_HERE") {
+        return alert("Please set your OpenWeatherMap API key in script.js (or window.OPENWEATHER_API_KEY) to fetch weather forecasts.");
+    }
     const API_URL = `https://api.openweathermap.org/geo/1.0/direct?q=${cityName}&limit=1&appid=${API_KEY}`;
     
     // Get entered city coordinates (latitude, longitude, and name) from the API response
