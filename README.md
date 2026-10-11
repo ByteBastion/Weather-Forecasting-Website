@@ -1,5 +1,5 @@
 <div align="center">
-  # 🌤️ Dynamic Weather Forecasting Web Application
+  🌤️ Dynamic Weather Forecasting Web Application
 
   **Vinayak Sharma**  
   *ByteBastion Engineering Laboratory*
